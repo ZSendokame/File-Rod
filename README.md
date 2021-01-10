@@ -2,8 +2,7 @@
 
 __Description__
 
-USB Roth its a basic programm to Backup files and delete folders and files... Like <a href="https://rufus.ie/">Rufus</a> but worst.
-
+USB Roth is a basic program for backing up files, deleting folders and files... Like <a href="https://rufus.ie/"> but worse. 
 
 # Video
 
