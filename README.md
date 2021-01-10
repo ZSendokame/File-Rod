@@ -2,7 +2,7 @@
 
 __Description__
 
-Flash Roth its a basic USB flasher... Like <a href="https://rufus.ie/">Rufus</a> but worst.
+USB Roth its a basic programm to Backup files and delete folders and files... Like <a href="https://rufus.ie/">Rufus</a> but worst.
 
 
 # Video
