@@ -32,7 +32,7 @@ if($Action -eq ".flash") {
 
 } elseif($Action -eq ".backup") {
 
-    $backUpPath = Read-Host "[$Username] ~ [Backup Path]"
+    $backUpPath = Read-Host "[$Username] ~ [Original Path]"
 
     $receiverPath = Read-Host "[$Username] ~ [Receiver Path]"
 
