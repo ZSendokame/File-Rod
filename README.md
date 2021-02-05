@@ -1,8 +1,8 @@
-# USB-Rod
+# File-Rod
 
 __Description__
 
-USB Rod is a basic program for backing up files, deleting folders and files... Like <a href="https://rufus.ie/">Rufus</a> but worse. 
+File Rod is a basic program for backing up files, deleting folders and files... Like <a href="https://rufus.ie/">Rufus</a> but worse. 
 
 # Video
 
