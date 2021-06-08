@@ -6,7 +6,3 @@ File Rod is a basic program for file administration... Like <a href="https://ruf
 
 
 100% Stable
-
-# Video
-
-<a href="https://youtu.be/7oIhn65gw4o">Making Rufus but worst :|</a>
